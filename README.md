@@ -31,7 +31,6 @@ I'm a **Full-Stack Developer** focused on building practical, scalable and user-
 
 * 💻 Building with **React, Next.js, TypeScript & Node.js**
 * ⚙️ Developing APIs and backend systems with **Node.js, Express & FastAPI**
-* 🗺️ Interested in **GIS, AI-powered applications & intelligent decision systems**
 * ☁️ Exploring **Cloud, Docker, Kubernetes & DevOps**
 * 🧠 Strengthening **C++ & Data Structures and Algorithms**
 * 🏗️ Interested in **System Design & scalable architectures**
@@ -41,40 +40,6 @@ I'm a **Full-Stack Developer** focused on building practical, scalable and user-
 
 ---
 
-## 🧩 Featured Projects
-
-### 🌐 AAPDA Intelligence
-
-**AI + GIS Disaster Intelligence Platform**
-
-An intelligent disaster-management platform designed to identify hazard-prone red zones, assess vulnerability, evaluate relocation requirements and identify safer locations.
-
-**Focus:**
-`AI` `GIS` `Risk Analysis` `Satellite Data` `Weather Data` `Population Analytics` `Decision Support`
-
----
-
-### 🏙️ UrbanMind
-
-**AI-Powered Urban Infrastructure Intelligence**
-
-A city infrastructure platform combining computer vision, GIS and intelligent prioritization to help monitor infrastructure issues throughout the maintenance lifecycle.
-
-**Focus:**
-`Computer Vision` `GIS` `Digital Twin` `AI` `Infrastructure Analytics`
-
----
-
-### 🏪 Dukaan Dost
-
-**Voice AI Assistant for Small Businesses**
-
-A simple Hindi voice-based AI assistant designed to help small shopkeepers understand and manage their business without requiring complex dashboards or technical knowledge.
-
-**Focus:**
-`Voice AI` `LLM` `Hindi AI` `Business Intelligence` `Conversational UX`
-
----
 
 ## 🛠️ Tech Stack
 

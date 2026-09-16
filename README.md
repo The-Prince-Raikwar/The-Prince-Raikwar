@@ -141,9 +141,6 @@ Full-Stack Development
 Backend & APIs
         │
         ▼
-AI + GIS Applications
-        │
-        ▼
 Cloud & DevOps
         │
         ▼
